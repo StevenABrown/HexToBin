@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HexToBin.vcxproj" Id="8620a41e-dafa-4ac2-b089-50154c23d282" />
+</Solution>
